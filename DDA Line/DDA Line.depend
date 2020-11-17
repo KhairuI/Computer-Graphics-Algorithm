@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605623983 source:h:\university lecture\11th semester\computer graphics lab\my code\dda line\algo.c
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+
