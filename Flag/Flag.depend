@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606848713 source:h:\university lecture\11th semester\computer graphics lab\my code\flag\bdflag.c
+	<GL/gl.h>
+	<GL/glut.h>
+
